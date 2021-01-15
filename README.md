@@ -1,5 +1,5 @@
-# Lampião
- _Game library for my own-made games built with ElectronJS and ReactJS_
+# 🕯️ Lampião
+ **_Game library for my own-made games built with ElectronJS and ReactJS_**
 
 *** 
 
@@ -9,7 +9,7 @@ Build folder is kind of ready, but there isn't any .exe file yet.
 ***
 
 ### 🌳 Branches
-- [Master](https://github.com/11-AleXS/Lamp)
+- [Main](https://github.com/11-AleXS/Lampiao)
  
 ### ⚙️ Build (Components > Front-end and Back-end)
 - Main Tab working on... 
