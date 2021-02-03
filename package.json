@@ -1,16 +1,19 @@
 {
-  "name": "candle",
-  "version": "1.0.0",
-  "description": "none",
+  "name": "lampiao",
+  "version": "1.1.0",
+  "description": "Lampiao é uma ferramenta auxiliar de biblioteca de jogos.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --config webpack.common.js --watch",
     "start": "electron ."
   },
-  "keywords": [],
-  "author": "alessfm",
-  "license": "ISC",
+  "keywords": [
+    "lampiao",
+    "games"
+  ],
+  "author": "@alessfm",
+  "license": "MIT",
   "dependencies": {
     "electron": "^11.1.1",
     "react": "^17.0.1",
