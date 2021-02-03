@@ -1,5 +1,5 @@
 # 🕯️ Lampião
- **_Game library for my own-made games built with ElectronJS and ReactJS_**
+ **_...built with ElectronJS and ReactJS_**
 
 *** 
 
