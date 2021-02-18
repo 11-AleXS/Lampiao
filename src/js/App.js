@@ -1,10 +1,10 @@
 import React from 'react';
-import Card from './Card';
+import Item from './Item';
 
 export default function App(){
     return(
         <>
-            <Card/>
+            <Item/>
         </>
     )
 }
