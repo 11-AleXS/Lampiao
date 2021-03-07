@@ -7,9 +7,6 @@
 Build folder is kind of ready, but there isn't any .exe file yet.
 
 ***
-
-### 🌳 Branches
-- [Main](https://github.com/11-AleXS/Lampiao)
  
 ### ⚙️ Build (Components > Front-end and Back-end)
 - Main Tab working on... 
