@@ -5,11 +5,5 @@ contextBridge.exposeInMainWorld('electron',{
         sendNotification(message){
             ipcRenderer.send('notify',message);
         }
-    },
-    batteryApi:{
-
-    },
-    filesApi:{
-
     }
 })

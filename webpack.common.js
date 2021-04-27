@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/js/index.js',
+  entry: './src/bundle.js',
   devtool: 'inline-source-map',
   target: 'electron-renderer',
   module: {
@@ -40,7 +40,7 @@ module.exports = {
     extensions: ['.js'],
   },
   output: {
-    filename: 'app.js',
-    path: path.resolve(__dirname, 'build', 'js'),
+    filename: 'lampiao.js',
+    path: path.resolve(__dirname, 'build'),
   },
 };
