@@ -14,7 +14,7 @@ A ideia por trás do Jua será de fornecer uma série de guias _na palma da sua 
 - Desenvolvimento de jogos (Godot Engine)
 - e muito mais
 
-## ⚙️ Como ter acesso?
+## 📂 Como ter acesso?
 O Jua será uma aplicação desktop, com base em Electron e React. Um arquivo executável (.exe) ainda não está disponível, pois ainda estou desenvolvendo, para depois criar os guias. Espere por futuras atualizações...
 
 ## ⬇️ Instale e Execute
@@ -25,7 +25,7 @@ Com o pacote [npm](https://www.npmjs.com/get-npm) instalado _e o [git](https://g
 ```
 git clone https://github.com/alessfm/jua.git 
 ```
-> Se você clonar de outro jeito,ignore o comando acima
+> Se você clonar de outro jeito, ignore o comando acima
 
 ```
 cd jua 
@@ -56,4 +56,4 @@ Sinta-se à vontade para **criar uma issue** com título e descrição [aqui](ht
 
 ## 📘 Licença
 
-Licença MIT 2021 - [Alessandro Figueiredo Malheiro](https://github.com/alessfm/). Por favor olhe [LICENSE](LICENSE) para mais detalhes.
+Licença MIT 2021 - [Alessandro Figueiredo Malheiro](https://github.com/alessfm/). Por favor, olhe [LICENSE](LICENSE) para mais detalhes.
