@@ -25,13 +25,13 @@ Com o pacote [npm](https://www.npmjs.com/get-npm) instalado _e o [git](https://g
 ```
 git clone https://github.com/alessfm/jua.git 
 ```
-> Se você clonar de outro jeito,ignore o comando acima <br/>
+> Se você clonar de outro jeito,ignore o comando acima
 
 ```
 cd jua 
 npm i 
 ```
-> `npm i` pode demorar um pouco dependendo do seu computador <br/><br/>
+> `npm i` pode demorar um pouco dependendo do seu computador
 
 Fez o que eu pedi? Ótimo, agora você pode executar os seguintes comandos:
 
@@ -46,7 +46,7 @@ npm test
 ```
 npm run watch
 ```
-> Faz uma nova pasta build <br/><br/>
+> Faz uma nova pasta build
 
 **Nota:** Se o Jua não se modificar de acordo com as mudanças após você ter executado `npm start`, então execute `npm run watch` e então `npm start` e veja se deu certo, caso não, repita o processo até funcionar. É um bug frequente, que eu ainda não descobri como arrumar.
 
