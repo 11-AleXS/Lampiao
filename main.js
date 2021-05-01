@@ -27,8 +27,8 @@ app.setUserTasks([
       arguments: '--new-window',
       iconPath: process.execPath,
       iconIndex: 0,
-      title: 'New Window',
-      description: 'Create a new window'
+      title: 'Nova Janela',
+      description: 'Crie uma nova janela'
     }
   ])
 
@@ -41,7 +41,7 @@ if (isDev){
 
  // to send notifications to Windows Users
 ipcMain.on('notify',(e,message)=>{
-    new Notification({title:'Ei!',body: message}).show();
+    new Notification({title:'Opa!',body: message}).show();
 })
 
 app.whenReady().then(createWindow);

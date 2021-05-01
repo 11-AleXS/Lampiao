@@ -40,7 +40,7 @@ module.exports = {
     extensions: ['.js'],
   },
   output: {
-    filename: 'lampiao.js',
+    filename: 'jua.js',
     path: path.resolve(__dirname, 'build'),
   },
 };

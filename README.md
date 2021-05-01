@@ -36,19 +36,19 @@ npm i
 Fez o que eu pedi? Ótimo, agora você pode executar os seguintes comandos:
 
 ```
+npm run watch
+```
+> Mantém a demo sempre atualizada
+```
 npm start  
 ```
-> Roda uma demo local, ela se atualiza com base nas mudanças no código _a não ser se você mudar os arquivos de lugar_
+> Roda uma demo local
 ```
 npm test
 ```
-> _Eu nunca usei, mas ele faz testes no progama_
-```
-npm run watch
-```
-> Faz uma nova pasta build
+> _Eu nunca usei..., mas está lá por padrão_
 
-**Nota:** Se o Jua não se modificar de acordo com as mudanças após você ter executado `npm start`, então execute `npm run watch` e então `npm start` e veja se deu certo, caso não, repita o processo até funcionar. É um bug frequente, que eu ainda não descobri como arrumar.
+**Nota:** Execute primeiro o `npm run watch` e depois o `npm start`, para assim, o Jua ficar sempre atualizado com as mudanças no código, tirando a necessidade de repetir comandos ou atualizar a página. Se o Jua não sofrer alterações, repita o processo até funcionar.
 
 ## 🤝Encontrou um bug? Está faltando algo?
 
