@@ -1,26 +1,30 @@
 # 🌵 Jua
 
-Para quem entra no mundo do desenvolvimento, ou até mesmo já tem alguma experiência; muitas vezes você se encontra trabalhando com várias linguagens, frameworks, sistemas de bancos de dados... E acaba por atropelar conceitos e/ou conteúdos mais antigos, tendo que revê-los quando vai utilizá-los novamente. 
+Para quem entra no mundo do desenvolvimento, ou até mesmo já tem alguma experiência, muitas vezes você se encontra trabalhando com várias linguagens, frameworks, sistemas de bancos de dados... E acaba por atropelar conceitos e/ou conteúdos mais antigos, tendo que revê-los quando vai utilizá-los novamente. 
 <br/><br/>
 A ideia por trás do Jua será de fornecer uma série de guias _na palma da sua mão_, facilitando essa revisão, para que você não perca tempo procurando em outros lugares. Eles englobarão:
-- Como instalar e configurar sistemas operacionais (Windows, Unix)
+- Como instalar e configurar sistemas operacionais (Unix)
 - Como executar máquinas virtuais na Oracle VM Virtual Box
 - Como instalar e configurar editores de código (Visual Studio Code)
-- Como instalar pacotes (yarn, npm, pip)
-- Como instalar progamas e serviços (git, flutter SDK, xampp...)
+- Como instalar pacotes (yarn, npm, pip ...)
+- Como instalar programas e serviços (git, xampp, pgadmin...)
 - Como organizar projetos e repositórios de conteúdos variados
-- Boas práticas no ato de progamar
+- Boas práticas no ato de progamar (Clean Code)
+- Como trabalhar com URLs e rotas em geral (usando Insomnia)
+- Como criar e manipular bancos de dados (PostgreSQL, Sequelize)
 - Progamação Orientada a Objeto
 - Desenvolvimento de jogos (Godot Engine)
 - e muito mais
 
 ## 📂 Como ter acesso?
-O Jua será uma aplicação desktop, com base em Electron e React. Um arquivo executável (.exe) ainda não está disponível, pois ainda estou desenvolvendo, para depois criar os guias. Espere por futuras atualizações...
+
+O Jua será uma aplicação desktop, com base em Electron e React. Um arquivo executável (.exe) ainda não está disponível, pois ainda estou desenvolvendo a estrutura, focando em seguida em criar os guias. Espere por futuras atualizações ;)
 
 ## ⬇️ Instale e Execute
+
 Caso você queria ajudar no desenvolvimento ou copiar meu código para uso pessoal em outro projeto seu, siga as dicas:
 <br/><br/>
-Com o pacote [npm](https://www.npmjs.com/get-npm) instalado _e o [git](https://git-scm.com/downloads) é claro_, clone o repositório, abra a pasta e instale as dependências, executando num terminal:
+Com o pacote [npm](https://www.npmjs.com/get-npm) instalado _e o [git](https://git-scm.com/downloads) também é claro_, clone o repositório, abra a pasta e instale as dependências (comandos abaixo, execute num terminal):
 
 ```
 git clone https://github.com/alessfm/jua.git 
@@ -31,7 +35,7 @@ git clone https://github.com/alessfm/jua.git
 cd jua 
 npm i 
 ```
-> `npm i` pode demorar um pouco dependendo do seu computador
+> `npm i` pode demorar um pouco dependendo do processamento do seu computador
 
 Fez o que eu pedi? Ótimo, agora você pode executar os seguintes comandos:
 

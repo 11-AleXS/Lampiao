@@ -4,11 +4,11 @@ import Editor from './views/editor';
 import '../assets/scss/index.scss';
 
 function Bundle(){
-    return(
-        <>
-            <Editor/>
-        </>
-    )
+  return(
+    <>
+      <Editor/>
+    </>
+  )
 }
 
-ReactDOM.render(<Bundle />,document.getElementById('root'))
+ReactDOM.render(<Bundle />,document.getElementById('root'));

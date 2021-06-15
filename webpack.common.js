@@ -43,4 +43,4 @@ module.exports = {
     filename: 'jua.js',
     path: path.resolve(__dirname, 'build'),
   },
-};
+}
