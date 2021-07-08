@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Editor from './views/editor';
-import '../assets/scss/index.scss';
+import Editor from './components/editor';
 
 function Bundle(){
   return(

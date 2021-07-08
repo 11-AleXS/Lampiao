@@ -5,10 +5,10 @@ const isDev = !app.isPackaged
 
 function createWindow(){
   const win = new BrowserWindow({
-    width: 640,
-    height: 520,
+    width: 720,
+    height: 640,
     backgroundColor: '#102A42',
-    icon: 'assets/img/icon.jpeg',
+    icon: 'assets/icons/logo.png',
     webPreferences:{
       nodeIntegration: false,
       worldSafeExecuteJavaScript: true,
