@@ -1,13 +1,11 @@
 <div align="center"><img src="./assets/icons/logosm.png"></img></div>
 
 [![GitHub issues](https://img.shields.io/github/issues/alessfm/jua)](https://github.com/alessfm/jua/issues)
-
 [![GitHub license](https://img.shields.io/github/license/alessfm/jua)](https://github.com/alessfm/jua/blob/main/LICENSE)
 
 <div align="center"> <code>Jua</code> é o mais simples guia sobre tecnologia.</div>
 
 <div align="center">Feito para promover buscas e revisões rápidas de variados conceitos, principalmente da área da programação.</div>
-<br><br>
 
 **⚡️ Instalação**
 ---
