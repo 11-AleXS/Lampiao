@@ -7,7 +7,7 @@ function createWindow(){
   const win = new BrowserWindow({
     width: 720,
     height: 640,
-    backgroundColor: '#102A42',
+    backgroundColor: '#063251',
     icon: 'assets/icons/logo.png',
     webPreferences:{
       nodeIntegration: false,
